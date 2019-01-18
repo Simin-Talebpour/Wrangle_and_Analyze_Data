@@ -1,4 +1,4 @@
-# Explore and Summarize Data
+# Wrangle and Analyze Data
 Udacity Nanodegree Data Analysis Project - Term 2  
 
 # Project Details
